@@ -94,3 +94,4 @@ ENV/
 
 # Configuration files
 config.json
+certs/
