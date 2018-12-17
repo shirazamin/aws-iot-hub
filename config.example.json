@@ -1,0 +1,5 @@
+{
+  "DEFAULT": {
+    "SECRET_KEY": "secret-key-of-myapp"
+  }
+}
